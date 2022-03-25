@@ -25,8 +25,8 @@ An energetic and motivated software developer: Ben Jr. Frontend Developer, I am 
 
 - My old projects
 - My JS skill
-- My Reactjs & Vuejs skills
-- 
+- My Reactjs skill
+- My Vuejs Skill
 
 ## 🌱 I'm currently learning
 
