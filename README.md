@@ -1,3 +1,7 @@
+<h3 align="center">
+Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Pelin</a> 👋
+</h3>
+
 <h2 align="center">
 I'm a Jr. Front-End Developer 💻 & Interior Designer 🎨!
 </h2> 
@@ -12,9 +16,7 @@ I'm a Jr. Front-End Developer 💻 & Interior Designer 🎨!
   <a href="#" target="_blank" rel="noreferrer"><img src="https://fullstackdeveloperolmak.com/wp-content/uploads/2021/10/UI-design-15_optimized-1024x576.png" alt="my banner"></a>
 </p>
 
-<h3 align="center">
-Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Pelin</a> 👋
-</h3>
+
 
 
 
