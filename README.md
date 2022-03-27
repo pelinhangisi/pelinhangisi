@@ -1,3 +1,9 @@
+<h2 align="center">
+I'm a Jr. Front-End Developer 💻 & Interior Designer 🎨!
+</h2> 
+
+An energetic and motivated software developer: Ben Jr. Frontend Developer, I am enthusiastic and detail oriented, engaged in design. I love the whole process of developing creative websites. I like to spend time finding caches and meeting new people. I am a person who can find practical solutions to the problems encountered, is passionate with the desire to learn and loves teamwork.
+
 
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer"><img src="https://fullstackdeveloperolmak.com/wp-content/uploads/2021/10/UI-design-15_optimized-1024x576.png" alt="my banner"></a>
@@ -7,11 +13,7 @@
 Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Pelin</a> 👋
 </h3>
 
-<h2 align="center">
-I'm a Jr. Front-End Developer 💻 & Interior Designer 🎨!
-</h2> 
 
-An energetic and motivated software developer: Ben Jr. Frontend Developer, I am enthusiastic and detail oriented, engaged in design. I love the whole process of developing creative websites. I like to spend time finding caches and meeting new people. I am a person who can find practical solutions to the problems encountered, is passionate with the desire to learn and loves teamwork.
 
 ### 🤝 Connect with me:
 
