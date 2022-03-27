@@ -6,10 +6,10 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Pelin</a> 👋
 I'm a Jr. Front-End Developer 💻 & Interior Designer 🎨!
 </h2> 
 
-* An energetic and motivated software developer: I am Jr. Frontend Developer, I am enthusiastic and detail oriented, engaged in design. 
+* An energetic and motivated software developer: I'm Jr. Frontend Developer, I'm enthusiastic and detail oriented, engaged in design. 
 * I love the whole process of developing creative websites. 
 * I like to spend time finding caches and meeting new people. 
-* I am a person who can find practical solutions to the problems encountered, is passionate with the desire to learn and loves teamwork.
+* I'm a person who can find practical solutions to the problems encountered, is passionate with the desire to learn and loves teamwork.
 
 
 <p align="center">
