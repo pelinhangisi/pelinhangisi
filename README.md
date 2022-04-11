@@ -3,7 +3,7 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Pelin</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Jr. Front-End Developer 💻 & Interior Designer 🎨!
+I'm a Front-End Developer 💻 & Interior Designer 🎨!
 </h2> 
 
 * An energetic and motivated software developer: I'm Jr. Frontend Developer, I'm enthusiastic and detail oriented, engaged in design. 
