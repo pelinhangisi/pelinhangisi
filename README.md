@@ -55,7 +55,7 @@ I'm a Software Developer
 
 
 
-<meta name="google-site-verification" content="u6LBrq53JwneIRBoOr4isEVnLSr00Lc4HEfcou6n8HI" />
+
 
 <!---
 pelinncee/pelinncee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
