@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Pelin</a> 👋
+Hi there, I'm Pelin 👋
 </h3>
 
 <h2 align="center">
