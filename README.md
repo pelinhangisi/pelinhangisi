@@ -25,16 +25,11 @@ Also, communication is the most important key to making progress in the software
 
 <br>
 
-<h3 align="left" dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Connect with me:</h3>
-<br>
+<h2 dir="auto"><a id="user-content-email-contact" class="anchor" aria-hidden="true" href="#email-contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji> Contact</h2> <br>
 
-<a href="https://www.linkedin.com/in/pelinhangisi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px" />   www.linkedin.com/in/pelinhangisi/</a>
-<br>
+You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji> <br>
 
-<a href="https://pelinhangisi@gmail.com"><img align="left" src="https://w7.pngwing.com/pngs/677/315/png-transparent-gmail-computer-icons-email-google-play-gmail-angle-rectangle-triangle.png" alt="Gmail" width="21px"/>pelinhangisi@gmail.com</a>
-</br>
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<p dir="auto"><a href="https://www.linkedin.com/in/pelinhangisi/" rel="nofollow"><img src="https://camo.githubusercontent.com/fe90888cd46c1bc093082b292d633cbf0c7c43856f12d9470991005efeb26bc4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <a href="mailto:pelinhangisi@gmail.com" title="Send me an email!"><img src="https://camo.githubusercontent.com/79292d3736cce0c7d743a9edc0bafd75da633cdc8b58797329fc9c3f56f9887b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://app.patika.dev/pelinncee" rel="nofollow"><img src="https://camo.githubusercontent.com/ccb148822b785f713d3d10774611c1dd53cedd592494ce0b324bf0bdd6eb2a47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506174696b612e6465762d4641424535353f7374796c653d666c6174" alt="Patika.dev" data-canonical-src="https://img.shields.io/badge/Patika.dev-FABE55?style=flat" style="max-width: 100%;"></a></p>
 
 <br>
 <br>
