@@ -46,6 +46,14 @@ Also, communication is the most important key to making progress in the software
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 </blockquote>
 
+<br>
+<p>Learning .. </p>
+
+<blockquote>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> 
+</blockquote>
+
 
 <br>
 
@@ -60,13 +68,12 @@ You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down"
 <br>
 
 
-
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pelinhangisi)](https://github.com/pelinhangisi)
+
+<img src="https://github-profile-trophy.vercel.app/?username=pelinhangisi&amp;theme=onedark">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelinhangisi&layout=compact)](https://github.com/pelinhangisi)
-
 
 
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d23e7f03041135a5c919f64123bb12efa4b20a4fd502e073cd13779df04ede6f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d62696c616c6c67756e617964696e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/d23e7f03041135a5c919f64123bb12efa4b20a4fd502e073cd13779df04ede6f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d62696c616c6c67756e617964696e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="pelinhangisi" data-canonical-src="https://komarev.com/ghpvc/?username=pelinhangisi&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
