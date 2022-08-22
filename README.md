@@ -12,9 +12,8 @@ I'm a Software Developer who is committed to self-development and lifetime learn
 
 Also, communication is the most important key to making progress in the software field and I believe that building strong relationships with people delivers the best results.
 
+<br>
 
-<br>
-<br>
 
 ## 💼 Languages and Tools
 
