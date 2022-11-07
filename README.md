@@ -46,8 +46,6 @@ Also, communication is the most important key to making progress in the software
 <p dir="auto"><a href="https://linkedin.com/in/pelinhangisi" rel="nofollow"><img src="https://camo.githubusercontent.com/4710c8417adc9fc1e9fe4b44a7f6b2451d053cdfc0ac97550b67dc268973b14e/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn" data-canonical-src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width: 100%;"></a> <a href="mailto:pelinhangisi@gmail.com"><img src="https://camo.githubusercontent.com/9734318df1bd17dac8b2a6b4f88684ced60f41394aa38df3c72a0510af8b69a6/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f676d61696c2e706e67" alt="Gmail" data-canonical-src="https://img.icons8.com/bubbles/50/000000/gmail.png" style="max-width: 100%;"></a> </p>
 
 
-
-<br>
 <br>
 
 
