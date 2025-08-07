@@ -14,7 +14,7 @@ I thrive in environments where creativity meets logic. Whether I'm designing fro
 
 My journey into software development began with curiosity, but it evolved into a lifelong commitment to continuous learning, knowledge sharing, and community growth.  
 
-💡 I especially enjoy working with **Java + Spring** on the backend, **React** on the frontend, and exploring modern tools like **Docker**, **MongoDB**, and **RESTful architecture**.  
+💡 I especially enjoy working with **Java + Spring** on the backend, **React** on the frontend, and exploring modern tools like **Docker**, **PostgreSQL**, and **RESTful architecture**.  
 📊 I'm also familiar with monitoring tools like **Dynatrace**, **Splunk**, and **Kibana** for observability and performance tracking.  
 ✍️ I'm an active writer on [Medium](https://medium.com/@pelinhangisi), where I share my learning journey and development insights.  
 
